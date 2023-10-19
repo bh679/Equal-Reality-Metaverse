@@ -3,6 +3,8 @@ Metaverse Plugin for Equal Reality Unity Apps
 
 
 # Design Docs
+(Metaverse Wiki)[https://sites.google.com/d/1k6_HYy00ORGCOU9-QdBoZ0C-9ravW5lF/p/19o_hg-dGwsRXe0nqDkO5iOmkYvTGXek5/edit]
+
 (Metaverse Projects Update - 	Oct 13, 2023)[https://docs.google.com/presentation/d/1PrJ7T-1P_APehFzPEU2l8Llpc-Al10E79tVLV_pA3Wk/edit#slide=id.g28de2d9b893_0_55]
 (Tech Roadmap - Aug 9, 2023)[https://docs.google.com/presentation/d/1Pau7wwZ194BpLKJgu3AH43_7AxgZ5NYWkzDRUth5TNk/edit#slide=id.p]
 (Metaverse Brainstorming - Sep 7, 2022)[https://docs.google.com/presentation/d/142zqEJnqoeRs5anFrPtqeMuYyW5SWj5C-xT2_dgddLE/edit#slide=id.p}
